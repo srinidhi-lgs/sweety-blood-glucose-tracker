@@ -246,3 +246,21 @@ npm run seed
 ```
 
 Note: These are public assessment demo credentials, not production credentials.
+
+
+## Application Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Reading
+![Add Reading](screenshots/add-reading.png)
+
+### Reading History
+![Reading History](screenshots/history.png)
+
+### Reports
+![Reports](screenshots/reports.png)
